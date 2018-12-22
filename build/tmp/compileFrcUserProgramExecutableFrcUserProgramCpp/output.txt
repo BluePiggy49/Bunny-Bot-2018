@@ -1,0 +1,8 @@
+See file:///home/bluepiggy49/IntegratedBB2018Code/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+
+compiling intake.cpp successful.
+
+compiling prematch.cpp successful.
+
+Finished compileFrcUserProgramExecutableFrcUserProgramCpp, see full log file:///home/bluepiggy49/IntegratedBB2018Code/build/tmp/compileFrcUserProgramExecutableFrcUserProgramCpp/output.txt.
